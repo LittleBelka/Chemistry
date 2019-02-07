@@ -3,5 +3,5 @@
 
 # Except these files:
 !.gitignore
-!.convert_to_xyz_file.ipynb
-!.distance_geometry.ipynb
+!convert_to_xyz_file.ipynb
+!distance_geometry.ipynb
